@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Azka Ansari</h1>
 
-<!--
-**azka-ansari/Azka-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Front-End Web Developer from Pakistan 🇵🇰</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently Learning JavaScript
+- ⚛️ Planning to Learn React.js
+- 💻 Skilled in HTML, CSS & Bootstrap
+- 🎯 Goal: Become a Professional Front-End Developer
+- 📍 Karachi, Pakistan
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azka-Ansari&show_icons=true&theme=tokyonight)
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Azka-Ansari&theme=tokyonight)
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azka-Ansari&layout=compact&theme=tokyonight)
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/azka-ansari-23831a404/))
