@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azka Ansari</h1>
-
 <h3 align="center">🚀 Passionate Front-End Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+Bootstrap;Currently+Learning+JavaScript;Future+React.js+Developer;Always+Learning+New+Things+🚀" />
-</p>
-</p>
-
+  <img src<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 ---
 
 ## 👩‍💻 About Me
