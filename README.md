@@ -39,4 +39,4 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/azka-ansari-23831a404/))
+[LinkedIn]https://www.linkedin.com/in/azka-ansari-23831a404/
