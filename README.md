@@ -24,16 +24,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azka-ansari&show_icons=true&theme=tokyonight)---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azka-ansari&show_icons=true&theme=tokyonight)
 
+---
+---
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=azka-ansari&theme=tokyonight)---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azka-ansari&layout=compact&theme=tokyonight)
 
+---
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azka-ansari&layout=compact&theme=tokyonight)---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azka-ansari&layout=compact&theme=tokyonight)
 
+---
 ## 🌐 Connect With Me
 
-[LinkedIn]https://www.linkedin.com/in/azka-ansari-23831a404/
+[LinkedIn](https://www.linkedin.com/in/azka-ansari-23831a404/)
