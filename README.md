@@ -39,14 +39,6 @@
 
 </p>
 ---
-<h2 align="center">🌐 Live Portfolio</h2>
-
-<p align="center">
-  <a href="[https://YOUR-LIVE-NETLIFY-URL.netlify.app](https://app.netlify.com/teams/azka-ansari/projects)" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
----
 ## 📊 GitHub Stats
 
 <p align="center">
