@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azka-ansari&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=azka-ansari&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
 </p>
 
 ---
