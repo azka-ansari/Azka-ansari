@@ -44,8 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azka-ansari&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azka-ansari&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://global.discourse-cdn.com/streamlit/original/3X/5/3/538713f103d1570de2e76829a7225e3743c3878a.png" />
 </p>
 
 ---
@@ -54,14 +53,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=azka-ansari&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azka-ansari&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
 </p>
 
 ---
