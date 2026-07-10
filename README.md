@@ -33,16 +33,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/azka-ansari">
+<a href="https://github.com/azka-ansari" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<h2 align="center">🌐 Live Portfolio</h2>
 
-<p align="center">
-  <a href="https:https://app.netlify.com/teams/azka-ansari/projects">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+<a href="https://YOUR-SITE-NAME.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </p>
 
